@@ -1,0 +1,15 @@
+,gpa_semester_2
+count,100000.0
+mean,1.981
+median,1.99
+mode,1.97
+std,0.718
+variance,0.515
+min,0.0
+Q1,1.49
+Q3,2.49
+IQR,1.0
+max,4.0
+CV %,36.239
+skewness,-0.081
+kurtosis,-0.267

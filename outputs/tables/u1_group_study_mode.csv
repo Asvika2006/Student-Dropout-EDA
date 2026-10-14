@@ -1,0 +1,4 @@
+study_mode,students,dropout_pct,gpa_s1,gpa_s2,attendance,units_failed
+Full-time,65096,32.0,2.57,1.98,76.67,3.13
+Online,12929,29.21,2.57,1.98,72.26,2.08
+Part-time,21975,33.67,2.57,1.98,72.14,1.87

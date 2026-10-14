@@ -1,0 +1,9 @@
+Slice,Students,Dropout %,Mean GPA S2,Mean attendance %
+STEM students,30141,32.1,1.98,75.1
+Semester 1 students,19995,33.7,1.98,75.2
+Online learners,12929,29.2,1.98,72.3
+International students,18094,32.1,1.98,75.2
+Low income and no scholarship,10393,49.1,1.83,73.7
+Tuition not up to date,21514,44.2,1.94,74.8
+>=5 failed units and attendance < 60%,5131,81.4,1.21,48.8
+All students,100000,32.0,1.98,75.1

@@ -1,0 +1,13 @@
+A,B,r
+weekly_work_hours,part_time_job,0.886
+gpa_semester_1,gpa_semester_2,0.83
+units_enrolled,units_passed,0.825
+units_failed,gpa_semester_1,-0.746
+units_failed,gpa_semester_2,-0.62
+gpa_semester_1,dropout,-0.569
+gpa_semester_2,dropout,-0.521
+units_failed,dropout,0.467
+units_passed,gpa_semester_1,0.449
+units_passed,gpa_semester_2,0.37
+units_enrolled,units_failed,0.365
+gpa_semester_1,missed_deadlines,-0.32

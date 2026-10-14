@@ -1,0 +1,20 @@
+Variable,Skewness,Shape,Lower fence,Upper fence,Below,Above,Outlier %
+age,0.12,Approx. symmetric,11.5,31.5,0,0,0.0
+weekly_work_hours,0.67,Moderate right skew,-27.0,45.0,0,0,0.0
+semester,0.44,Approx. symmetric,-2.5,9.5,0,0,0.0
+admission_grade,-0.06,Approx. symmetric,56.5,210.1,342,0,0.34
+previous_qualification_grade,-0.05,Approx. symmetric,70.85,208.05,330,0,0.33
+units_enrolled,0.11,Approx. symmetric,1.0,25.0,0,0,0.0
+units_passed,0.39,Approx. symmetric,0.5,20.5,0,436,0.44
+units_failed,0.9,Moderate right skew,-3.5,8.5,0,1628,1.63
+gpa_semester_1,-0.2,Approx. symmetric,0.38,4.78,359,0,0.36
+gpa_semester_2,-0.08,Approx. symmetric,-0.01,3.99,0,71,0.07
+attendance_rate,-0.42,Approx. symmetric,24.25,127.85,335,0,0.34
+assignments_submitted_rate,-0.42,Approx. symmetric,13.7,131.3,358,0,0.36
+library_visits_per_month,1.68,Strong right skew,-4.0,12.0,0,3756,3.76
+lms_logins_per_week,0.37,Approx. symmetric,-3.45,17.75,0,823,0.82
+missed_deadlines,1.76,Strong right skew,-4.5,7.5,0,4903,4.9
+stress_level,-0.22,Approx. symmetric,0.5,12.5,0,0,0.0
+satisfaction_score,-0.17,Approx. symmetric,0.5,12.5,0,0,0.0
+commute_time_mins,1.65,Strong right skew,-34.5,73.5,0,4879,4.88
+sleep_hours,0.09,Approx. symmetric,3.15,9.95,0,275,0.28

@@ -1,0 +1,11 @@
+Variable X,Variable Y,Pearson r,Spearman rho,Slope,Intercept,R-squared,p-value
+attendance_rate,assignments_submitted_rate,0.304,0.296,0.3474,45.332,0.093,<0.001
+gpa_semester_1,gpa_semester_2,0.83,0.825,0.7558,0.04,0.69,<0.001
+attendance_rate,gpa_semester_2,0.222,0.218,0.0092,1.293,0.049,<0.001
+units_failed,gpa_semester_2,-0.62,-0.632,-0.2008,2.526,0.384,<0.001
+admission_grade,previous_qualification_grade,0.028,0.026,0.0246,136.163,0.001,<0.001
+admission_grade,gpa_semester_1,0.158,0.153,0.0044,1.979,0.025,<0.001
+stress_level,sleep_hours,-0.186,-0.181,-0.1041,7.228,0.035,<0.001
+weekly_work_hours,gpa_semester_2,-0.091,-0.09,-0.0064,2.037,0.008,<0.001
+lms_logins_per_week,library_visits_per_month,0.075,0.099,0.0699,3.859,0.006,<0.001
+missed_deadlines,assignments_submitted_rate,-0.108,-0.137,-0.8266,73.386,0.012,<0.001

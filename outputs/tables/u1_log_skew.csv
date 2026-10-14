@@ -1,0 +1,5 @@
+Variable,Skew (raw),Skew (log1p)
+missed_deadlines,1.76,0.12
+commute_time_mins,1.65,-0.59
+library_visits_per_month,1.68,-0.3
+units_failed,0.9,-0.36

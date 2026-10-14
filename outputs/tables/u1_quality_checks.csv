@@ -1,0 +1,13 @@
+Check,Result,Action / observation
+Missing cells,0,None - no imputation needed
+Duplicate rows,0,None dropped
+Duplicate person_id,0,ID is a unique key
+units_passed + units_failed != units_enrolled,0,Logic holds for all rows
+GPA outside 0-4,0,All valid
+Rates outside 0-100%,0,All valid
+Grades above 200,0,All valid (0-200 scale)
+part_time_job inconsistent with weekly_work_hours,0,Consistent
+Students aged under 18,12758,"Kept - plausible early-entry/dual-enrolment, flagged"
+attendance_rate capped at 100,10556,Ceiling effect noted
+admission_grade capped at 200,945,Ceiling effect noted
+gpa_semester_1 exactly 0.0,85,Floor effect noted

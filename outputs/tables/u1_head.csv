@@ -1,0 +1,9 @@
+person_id,age,gender,nationality,first_generation,disability_status,family_income_level,scholarship_holder,tuition_up_to_date,part_time_job,weekly_work_hours,course_type,study_mode,semester,international_student,admission_grade,previous_qualification_grade,units_enrolled,units_passed,units_failed,gpa_semester_1,gpa_semester_2,attendance_rate,assignments_submitted_rate,library_visits_per_month,lms_logins_per_week,extracurricular_activities,missed_deadlines,stress_level,mental_health_support,satisfaction_score,commute_time_mins,sleep_hours,dropout
+1,23,Male,Brazil,0,0,Low,1,0,1,24,STEM,Online,7,0,164.6,165.1,11,11,0,3.44,2.55,77.3,75.0,4,16.3,0,3,8,0,6,37,5.7,0
+2,18,Other,USA,1,1,High,1,1,0,0,Arts & Humanities,Full-time,6,1,175.2,164.1,14,11,3,2.56,2.53,52.1,80.1,3,8.4,1,1,7,0,6,15,5.4,1
+3,24,Other,USA,0,0,High,0,1,1,16,Arts & Humanities,Full-time,3,0,126.0,179.3,17,14,3,3.43,2.73,100.0,67.8,3,11.3,1,0,2,0,3,4,4.3,0
+4,25,Female,USA,0,1,Middle,1,1,0,0,Business,Full-time,1,0,75.5,161.9,13,11,2,2.51,2.1,83.9,100.0,2,13.2,1,1,5,0,7,10,6.7,0
+5,15,Female,Canada,0,0,Low,1,1,0,0,Health Sciences,Part-time,2,0,89.0,101.8,8,7,1,3.93,2.88,61.6,100.0,4,7.4,1,0,7,0,10,24,5.8,0
+6,17,Female,Indonesia,1,1,Middle,1,1,0,0,Law & Social Sciences,Part-time,7,0,170.2,125.3,8,6,2,1.94,1.39,87.6,96.4,0,0.0,1,2,4,1,10,8,7.5,0
+7,22,Female,USA,1,0,High,0,0,0,0,Arts & Humanities,Full-time,6,0,117.0,163.5,16,13,3,2.54,2.29,74.3,80.9,1,14.9,1,2,5,1,5,25,6.0,0
+8,20,Female,Philippines,0,0,Middle,1,1,0,0,Health Sciences,Full-time,3,0,97.3,159.3,9,8,1,3.44,2.23,92.8,99.6,3,6.9,0,1,7,0,10,36,6.4,0

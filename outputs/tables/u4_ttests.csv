@@ -1,0 +1,20 @@
+Variable,Mean (stayed),Mean (dropped),Welch t,t-test p,Mann-Whitney p,Cohen's d,Effect size
+gpa_semester_1,2.88,1.91,-218.6,<0.001,<0.001,-1.48,large
+gpa_semester_2,2.24,1.44,-195.1,<0.001,<0.001,-1.31,large
+units_failed,2.01,4.22,152.7,<0.001,<0.001,1.13,large
+attendance_rate,78.5,67.87,-91.1,<0.001,<0.001,-0.64,medium
+missed_deadlines,1.87,3.44,86.6,<0.001,<0.001,0.63,medium
+assignments_submitted_rate,75.18,63.44,-88.0,<0.001,<0.001,-0.61,medium
+units_passed,10.98,8.94,-89.5,<0.001,<0.001,-0.58,medium
+library_visits_per_month,4.93,3.17,-76.1,<0.001,<0.001,-0.49,small
+lms_logins_per_week,7.82,6.12,-66.3,<0.001,<0.001,-0.44,small
+weekly_work_hours,7.47,11.45,56.2,<0.001,<0.001,0.39,small
+stress_level,6.26,6.86,42.1,<0.001,<0.001,0.28,small
+admission_grade,135.63,127.87,-40.7,<0.001,<0.001,-0.28,small
+satisfaction_score,6.44,6.06,-27.2,<0.001,<0.001,-0.19,negligible
+sleep_hours,6.6,6.46,-17.9,<0.001,<0.001,-0.12,negligible
+semester,3.66,3.52,-9.7,<0.001,<0.001,-0.07,negligible
+previous_qualification_grade,140.0,138.27,-10.2,<0.001,<0.001,-0.07,negligible
+units_enrolled,12.99,13.16,6.5,<0.001,<0.001,0.04,negligible
+commute_time_mins,23.13,23.53,2.5,0.014,0.002,0.02,negligible
+age,21.52,21.53,0.5,0.606,0.715,0.0,negligible

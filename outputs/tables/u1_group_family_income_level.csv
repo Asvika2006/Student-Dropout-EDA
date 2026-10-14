@@ -1,0 +1,4 @@
+family_income_level,students,dropout_pct,gpa_s1,gpa_s2,attendance,units_failed
+High,24978,19.99,2.72,2.16,76.66,2.39
+Low,34809,42.92,2.44,1.83,73.83,2.97
+Middle,40213,30.02,2.58,2.0,75.23,2.7

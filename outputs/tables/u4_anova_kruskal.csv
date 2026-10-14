@@ -1,0 +1,9 @@
+Numeric variable,Grouped by,ANOVA F,ANOVA p,Kruskal H,Kruskal p,Eta-squared
+gpa_semester_2,family_income_level,1625.9,<0.001,3008.5,<0.001,0.0315
+gpa_semester_2,course_type,0.5,0.748,1.6,0.815,0.0
+attendance_rate,study_mode,763.5,<0.001,1451.7,<0.001,0.015
+weekly_work_hours,study_mode,3.0,0.047,6.2,0.045,0.0001
+gpa_semester_1,semester,1.0,0.413,7.0,0.433,0.0001
+units_failed,family_income_level,503.1,<0.001,1063.7,<0.001,0.01
+admission_grade,course_type,0.9,0.485,3.3,0.509,0.0
+stress_level,work_load,841.3,<0.001,1631.7,<0.001,0.0165

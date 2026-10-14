@@ -1,0 +1,3 @@
+Model,ROC-AUC,Accuracy,Recall (Low income) %,Recall (High income) %
+With all 32 features,0.9031,0.8402,76.8,55.7
+Without 5 sensitive attributes,0.9023,0.84,76.5062,55.1724
